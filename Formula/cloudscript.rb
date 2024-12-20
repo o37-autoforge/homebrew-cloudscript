@@ -1,5 +1,5 @@
 class Cloudscript < Formula
-    desc "C CLI tool that converts to terraform, ansible, and kubernetes"
+    desc "Cloudscript CLI installable with brew"
     homepage "https://github.com/Panchangam18/test-cloudscript-brew"
     version "0.0.5"
   
