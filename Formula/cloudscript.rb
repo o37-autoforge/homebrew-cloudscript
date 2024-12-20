@@ -1,5 +1,5 @@
 class Cloudscript < Formula
-    desc "Infrastructure as Code CLI tool that converts to terraform, ansible, and kubernetes"
+    desc "C CLI tool that converts to terraform, ansible, and kubernetes"
     homepage "https://github.com/Panchangam18/test-cloudscript-brew"
     version "0.0.5"
   
